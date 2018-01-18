@@ -23,7 +23,6 @@ private:
     Characteristic *characteristicInfluant;
     std::string name;
     Level level;
-
 };
 
 #endif // ABILITY_H
