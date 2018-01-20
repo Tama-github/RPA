@@ -1,4 +1,4 @@
-#include "body.h"
+#include "../include/body.h"
 
 Body::Body() {
     for (int i = 0; i < 12; i++) {

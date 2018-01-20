@@ -1,4 +1,4 @@
-#include "characterdescription.h"
+#include "../include/characterdescription.h"
 
 CharacterDescription::CharacterDescription()
 {

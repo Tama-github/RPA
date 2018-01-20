@@ -1,8 +1,8 @@
-#include "mjboard.h"
+#include "../include/mjboard.h"
 
 MJBoard::MJBoard()
 {
-    this->characters = std::vector();
+    this->characters = std::vector<Character>();
 }
 
 void MJBoard::addCharacter(Character c) {

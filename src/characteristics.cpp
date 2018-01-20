@@ -1,4 +1,4 @@
-#include "characteristics.h"
+#include "../include/characteristics.h"
 
 Characteristics::Characteristics(unsigned int intelLvl, unsigned int intelCurrentXp, float im,
                                  unsigned int agiLvl, unsigned int agiCurrentXp, float am,

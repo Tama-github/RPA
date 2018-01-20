@@ -1,4 +1,4 @@
-#include "armorpiece.h"
+#include "../include/armorpiece.h"
 
 
 unsigned int ArmorPiece::takeDamage(unsigned int damages) {

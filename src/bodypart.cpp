@@ -1,4 +1,4 @@
-#include "bodypart.h"
+#include "../include/bodypart.h"
 
 BodyPart::BodyPart() {
     this->state = MAX_STATE;

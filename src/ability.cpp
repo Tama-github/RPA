@@ -1,4 +1,4 @@
-#include "ability.h"
+#include "../include/ability.h"
 
 bool Ability::use(unsigned int xpGaigned) {
     this->characteristicInfluant->use();

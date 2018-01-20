@@ -1,4 +1,4 @@
-#include "inventory.h"
+#include "../include/inventory.h"
 
 void Inventory::addObject (WearableObject wo) {
     this->objects.push_back(wo);

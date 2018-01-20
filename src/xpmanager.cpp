@@ -1,4 +1,4 @@
-#include "xpmanager.h"
+#include "../include/xpmanager.h"
 
 XPManager::XPManager(Level *lvl, float learningModifier, unsigned int xp)
 {

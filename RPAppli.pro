@@ -35,7 +35,20 @@ SOURCES += main.cpp\
     character.cpp \
     body.cpp \
     inventory.cpp \
-    mjboard.cpp
+    mjboard.cpp \
+    src/ability.cpp \
+    src/armorpiece.cpp \
+    src/body.cpp \
+    src/bodypart.cpp \
+    src/character.cpp \
+    src/characterdescription.cpp \
+    src/characteristic.cpp \
+    src/characteristics.cpp \
+    src/inventory.cpp \
+    src/level.cpp \
+    src/mjboard.cpp \
+    src/wearableobject.cpp \
+    src/xpmanager.cpp
 
 HEADERS  += mainwindow.h \
     ability.h \
@@ -49,6 +62,19 @@ HEADERS  += mainwindow.h \
     body.h \
     wearableobject.h \
     inventory.h \
-    mjboard.h
+    mjboard.h \
+    include/ability.h \
+    include/armorpiece.h \
+    include/body.h \
+    include/bodypart.h \
+    include/character.h \
+    include/characterdescription.h \
+    include/characteristic.h \
+    include/characteristics.h \
+    include/inventory.h \
+    include/level.h \
+    include/mjboard.h \
+    include/wearableobject.h \
+    include/xpmanager.h
 
 FORMS    += mainwindow.ui

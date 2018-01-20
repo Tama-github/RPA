@@ -1,7 +1,6 @@
 #ifndef LEVEL_H
 #define LEVEL_H
 
-
 class Level {
 public:
     Level(unsigned int maxLevel, unsigned int currentLevel, float learningModifier, unsigned int xp);

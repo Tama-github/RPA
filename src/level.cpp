@@ -1,4 +1,4 @@
-#include "level.h"
+#include "../include/level.h"
 
 Level::Level(unsigned int _maxLevel, unsigned int _currentLevel, float _learningModifier, unsigned int _xp) :
     maxLevel(_maxLevel),
